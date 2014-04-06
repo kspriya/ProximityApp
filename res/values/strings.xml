@@ -19,5 +19,7 @@
     <string name="battery">Battery : </string>
     <string name="status">Status : </string>
     <string name="startapp">Start App</string>
+    <string name="logging">Logging</string>
+    <string name="hundred">100</string>
 
 </resources>

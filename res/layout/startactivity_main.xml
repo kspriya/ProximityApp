@@ -24,7 +24,7 @@
             android:layout_gravity="center_vertical|center_horizontal"
             android:gravity="center"
             android:layout_weight="1"
-            android:padding="15dp"
+            android:padding="10dp"
             android:text="@string/select_device"
             android:textSize="20sp" />
 
